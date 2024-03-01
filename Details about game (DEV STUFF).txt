@@ -1,0 +1,59 @@
+	Values for Biomes:
+Plains = 0
+Desert = 1
+Ocean = 2
+Mountain = 3
+Tundra = 4
+Forest = 5
+
+Full Item List
+0 - Grass
+1 - Seed
+2 - Food
+3 - Shell
+4 - Sand
+5 - Salt
+6 - Stone
+7 - Flint
+8 - Snow
+9 - Wool
+10 - Stick
+11 - Wood
+12 - Axe
+13 - Pickaxe
+14 - Furnace
+15 - Campfire
+16 - Glass
+17 - Iron Ore
+18 - Iron Bar
+19 - Copper Ore
+20 - Copper Bar
+21 - Zinc Ore
+22 - Zinc Bar
+23 - Watter Bottle
+24 - Shirt
+25 - Pants
+26 - Hat
+27 - Raft
+28 - Twine
+29 - Brass Bar
+30 - Steel Bar
+31 - Iron Sword
+32 - Reinforced Sword
+33 - Chestplate 
+34 - Armored Pants
+35 - Helmet
+36 - Fishing Rod
+37 - Gauntlet of Balance
+38 - Teleporter
+39 - 
+40 - 
+41 - 
+42 - 
+43 - 
+44 - 
+45 - 
+46 - 
+47 - 
+48 - 
+49 - 
